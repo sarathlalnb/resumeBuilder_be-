@@ -1,0 +1,109 @@
+{
+  "resumeDatas": [
+    {
+      "fullName": "arjun",
+      "location": "kjo",
+      "jobTitle": "Data Scientist",
+      "email": "arjun@gmail.com",
+      "contactNumber": "789798671",
+      "linkedin": "dssd",
+      "github": "dsd",
+      "degree": "sdsd",
+      "university": "dsd",
+      "yog": "2025",
+      "summary": "Data scientist with expertise in machine learning, statistical analysis, and predictive modeling. Skilled in transforming large datasets into actionable insights.",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Data Visualization",
+        "Pandas",
+        "NumPy",
+        "Deep Learning",
+        "Model Evaluation",
+        "Data Wrangling",
+        "SQL"
+      ],
+      "id": 2
+    },
+    {
+      "fullName": "varun",
+      "location": "sd",
+      "jobTitle": "Machine Learning Engineer",
+      "email": "ddsd",
+      "contactNumber": "1122331",
+      "linkedin": "dvdv",
+      "github": "dfff",
+      "degree": "czc",
+      "university": "cxc",
+      "yog": "9280",
+      "summary": "Machine learning engineer experienced in developing, training, and deploying machine learning models. Skilled in data preprocessing, model evaluation, and AI-driven solution development.",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Deep Learning",
+        "Data Preprocessing",
+        "Model Deployment",
+        "Natural Language Processing",
+        "Computer Vision",
+        "MLOps"
+      ],
+      "id": 3
+    },
+    {
+      "fullName": "jhhkh",
+      "location": "hjkhk",
+      "jobTitle": "DevOps Engineer",
+      "email": "huyuiy",
+      "contactNumber": "8978",
+      "linkedin": "hiyhi",
+      "github": "hkh",
+      "degree": "f",
+      "university": "fd",
+      "yog": "33333",
+      "summary": "DevOps engineer experienced in automating deployment pipelines, managing cloud infrastructure, and improving software delivery processes through CI/CD practices.",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS",
+        "Linux",
+        "Jenkins",
+        "Terraform",
+        "Git",
+        "Monitoring",
+        "Infrastructure as Code"
+      ],
+      "id": 4
+    },
+    {
+      "fullName": "jjkdsdsds",
+      "location": "hkjh",
+      "jobTitle": "HR Manager",
+      "email": "jg",
+      "contactNumber": "jgj",
+      "linkedin": "gjg",
+      "github": "jgjh",
+      "degree": "hj",
+      "university": "gjhg",
+      "yog": "jhg",
+      "summary": "HR manager experienced in talent acquisition, employee engagement, and performance managemeant to support organizational growth and workforce development.",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Employee Engagement",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Training & Development",
+        "Payroll Management",
+        "Leadership",
+        "Communication",
+        "sas"
+      ],
+      "id": 5
+    }
+  ]
+}
